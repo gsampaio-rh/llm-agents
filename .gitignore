@@ -170,3 +170,10 @@ cython_debug/
 #Conda
 .conda
 
+#Audio Files
+mp3_audio_files
+Audio_Records
+
+#logs
+logs
+
